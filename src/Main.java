@@ -48,7 +48,7 @@ class Cat {
 public class Main {
     public static
     void main(String[] args) {
-        Cat[] cats = {new Cat("Чани", 50), new Cat("Пауль", 50), new Cat("Стилгар", 25), new Cat("Джессика", 5), new Cat("Шаддам", 1)};
+        Cat[] cats = {new Cat("Чани", 50), new Cat("cat1", 50), new Cat("cat2", 25), new Cat("cat3", 5), new Cat("cat4", 1)};
 Plate plate = new Plate( 120);
  
         for (Cat cat : cats) {
